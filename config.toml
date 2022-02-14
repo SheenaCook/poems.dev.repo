@@ -1,4 +1,5 @@
 baseurl = "https://sheenacook.github.io"
+author = "Sheenaz"
 title = "Sheena Cook"
 theme = "hugo-theme-cleanwhite-rsy"
 languageCode = "en-us"
