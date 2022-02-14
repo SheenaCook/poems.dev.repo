@@ -1,5 +1,4 @@
 baseurl = "https://sheenacook.github.io"
-author = "Sheenaz"
 title = "Sheena Cook"
 theme = "hugo-theme-cleanwhite-rsy"
 languageCode = "en-us"
@@ -13,7 +12,7 @@ unsafe = true
 [params]
     header_image = "https://c1.staticflickr.com/1/65535/50900219048_fcb57e83d0_h.jpg"
     title = "Musings, mud and minor melancholy"
-    slogan = " by Sheena"
+    author = "Sheenaz"
     SEOTitle = "Sheena Cook Poems"
     keyword = "Poems, Poetry, Blog, Gardening, Nature, Musings"
 
