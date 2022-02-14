@@ -1,9 +1,8 @@
 ---
 title:       "Winter Blackbirds"
 subtitle:    ""
-description: ""
+description: "Amused on a frosty day by the blackbirds play"
 date:        2018-06-04
-
 image:       ""
 tags:        ["birds", "blackbirds", "winter"]
 categories:  ["nature"]

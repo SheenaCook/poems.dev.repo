@@ -18,7 +18,7 @@ unsafe = true
 
 
 # Sidebar settings
-    sidebar_about_description = "Poems inspired by time spent on my allotment."
+    sidebar_about_description_line1 ="Poems inspired by time spent on my allotment."
     sidebar_about_description_line2 ="And the broader horizons of humour. Shuttling around in life's loom."
     sidebar_about_description_line3 ="The natural world is worth noticing."
     sidebar_avatar = "https://live.staticflickr.com/7473/15505448029_87d189ae8c_n.jpg"
