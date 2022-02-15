@@ -12,7 +12,6 @@ unsafe = true
 [params]
     header_image = "https://cdn.pixabay.com/photo/2018/01/30/22/50/forest-3119826_1280.jpg"
     title = "Musings, mud and minor melancholy"
-    author = "Sheenaz"
     SEOTitle = "Sheena Cook Poems"
     keyword = "Poems, Poetry, Blog, Gardening, Nature, Musings"
 
@@ -27,7 +26,7 @@ unsafe = true
     featured_tags = false
     featured_condition_size = 2 # How many posts have to have a given tag to be featured (greater-than)
 
-    image_404 = "bob.png"
+    image_404 = ""
     title_404 = "We couldn't find what you were looking for..."
 
     omit_categories = false
