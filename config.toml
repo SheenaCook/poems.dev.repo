@@ -22,6 +22,7 @@ unsafe = true
     sidebar_about_description_line3 ="The natural world is worth noticing."
     sidebar_avatar = "https://live.staticflickr.com/7473/15505448029_87d189ae8c_n.jpg"
     about_me = true
+    friends = true
 
     featured_tags = false
     featured_condition_size = 2 # How many posts have to have a given tag to be featured (greater-than)
@@ -34,6 +35,14 @@ unsafe = true
     [[params.addtional_menus]]
 #    title =  "ABOUT"
 #    href =  "/top/about/"
+
+    [[params.friend_link]]
+    title = "Allison Young"
+    href =  "https://www.allisonyoung.com/"
+
+    [[params.friend_link]]
+    title = "Kara Simpson"
+    href =  "https://www.karasimpson.co.uk/"
 
     [params.social]
 #    rss            = true
