@@ -10,7 +10,7 @@ paginate = 5000 #frontpage pagination
 unsafe = true
 
 [params]
-    header_image = "https://cdn.pixabay.com/photo/2018/01/30/22/50/forest-3119826_1280.jpg"
+    header_image = "/img/forest-3119826_1280.jpg"
     title = "Musings, mud and minor melancholy"
     SEOTitle = "Sheena Cook Poems"
     keyword = "Poems, Poetry, Blog, Gardening, Nature, Musings"
@@ -20,7 +20,7 @@ unsafe = true
     sidebar_about_description_line1 ="Poems inspired by time spent on my allotment."
     sidebar_about_description_line2 ="And the broader horizons of humour. Shuttling around in life's loom."
     sidebar_about_description_line3 ="The natural world is worth noticing."
-    sidebar_avatar = "/img/sheena.jpg"
+    sidebar_avatar = "/img/sheena.jpeg"
     about_me = true
     friends = true
 
