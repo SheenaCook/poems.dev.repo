@@ -4,7 +4,7 @@ subtitle:    ""
 description: "The Robin"
 date:        2021-12-25T08:57:35Z
 image:       "/img/robin_1.jpg"
-tags:        ["robins", "birds", "winter"]
+tags:        ["birds", "winter"]
 categories:  ["Nature"]
 ---
 <br>Ground frost

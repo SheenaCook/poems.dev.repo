@@ -4,7 +4,7 @@ subtitle:    ""
 description: " "
 date:        2021-01-18T17:26:09Z
 image:       "/img/owl_1.jpg"
-tags:        ["owls","birds"]
+tags:        ["birds"]
 categories:  ["Nature"]
 ---
 <br>Bright dawn

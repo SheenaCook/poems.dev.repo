@@ -4,7 +4,7 @@ subtitle:    ""
 description: "Amused on a frosty day by the blackbirds play"
 date:        2022-02-13
 image:       "/img/blackbird-6899457_1280.jpg"
-tags:        ["birds", "blackbirds", "winter"]
+tags:        ["birds","winter"]
 categories:  ["nature"]
 ---
 Even on the dampest day<br>
