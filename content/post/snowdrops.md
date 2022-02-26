@@ -4,7 +4,7 @@ subtitle:    ""
 description: " "
 date:        2022-01-14T08:04:54Z
 image:       "/img/snowdrops_3.jpg"
-tags:        ["Winter"]
+tags:        ["winter"]
 categories:  ["Nature"]
 ---
 <br>**Apricity** - feeling the sun’s warmth in winter.

@@ -4,7 +4,6 @@ subtitle:    ""
 description: " "
 date:        2022-02-26T07:57:19Z
 image:       ""
-
 categories:  ["Humour"]
 ---
 <br>Trapped in a gilet

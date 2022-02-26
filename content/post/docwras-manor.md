@@ -4,8 +4,8 @@ subtitle:    ""
 description: "An impromptu spring garden visit"
 date:        2022-02-06T07:42:15Z
 image:       "/img/crocus-6955548_960_720.jpg"
-tags:        ["Gardens, Spring"]
-categories:  ["Nature"]
+tags:        ["gardens, spring "]
+categories:  ["nature"]
 ---
 <br>Following the paths meander
 <br>Carpets of snowdrops nod
