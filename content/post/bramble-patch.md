@@ -3,7 +3,7 @@ title:       "Bramble Patch"
 subtitle:    ""
 description: " "
 date:        2021-02-17T16:44:54Z
-image:       "/img/blackberry-bush_1.jpg"
+image:       "/img/brambles-50385029192_0b4bbaf883.jpg"
 tags:        ["gardens"]
 categories:  ["Nature"]
 ---
