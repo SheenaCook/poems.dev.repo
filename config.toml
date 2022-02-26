@@ -2,7 +2,7 @@ baseurl = "https://sheenacook.github.io"
 title = "Sheena Cook"
 theme = "hugo-theme-cleanwhite-rsy"
 languageCode = "en-us"
-paginate = 5000 #frontpage pagination
+paginate = 10 #frontpage pagination
 
 [markup]
     [markup.goldmark]
