@@ -28,7 +28,7 @@ categories:  ["nature"]
 <br>Greenhouse a haven of warmth
 <br>Inhale the comforting scents
 <br>Succulents the hidden hermits
-<br>AS geraniums slumber in terracotta
+<br>As geraniums slumber in terracotta
 <br>Propagation and hibernation's lair
 <br>
 <br>The gardens gently nurtured
