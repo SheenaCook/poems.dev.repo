@@ -22,7 +22,7 @@ categories:  ["Humour"]
 <br>Reserve shaken
 <br>
 <br>Languildy pedalling
-<br>Havey soled treddling
+<br>Heavey soled treddling
 <br>Relax a while
 <br>Share a smile
 <br>Tending to be introspective
