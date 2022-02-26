@@ -4,7 +4,7 @@ subtitle:    ""
 description: " "
 date:        2021-01-30T17:09:14Z
 image:       "/img/sea-6944490_960_720.jpg"
-tags:        ["bereavement"]
+tags:        ["bereavement", "sea"]
 categories:  ["misc"]
 ---
 <br>Distress sealed in a bottle
