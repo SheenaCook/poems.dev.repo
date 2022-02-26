@@ -4,7 +4,6 @@ subtitle:    ""
 description: "A small drink of whisky"
 date:        2022-02-25T08:43:39Z
 image:       "/img/whisky-644372_1280.jpg"
-tags:        [""]
 categories:  ["Recent"]
 ---
 <br>**bam** - someone who is foolish, disruptive, annoying, obnoxious
