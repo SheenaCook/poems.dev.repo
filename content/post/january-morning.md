@@ -4,7 +4,7 @@ subtitle:    ""
 description: " "
 date:        2022-01-12T08:30:48Z
 image:       "/img/mountains-6964950_960_720.jpg"
-tags:        ["Winter"]
+tags:        ["winter"]
 categories:  ["Nature"]
 ---
 <br>Sun and frost cast

@@ -15,5 +15,3 @@ Filling bare trees<br>
 Flutter and tease<br>
 Blackbirds style<br>
 It makes us smile<br>
-
-

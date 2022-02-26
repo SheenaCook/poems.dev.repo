@@ -4,7 +4,6 @@ subtitle:    ""
 description: "Why try?"
 date:        2022-01-01T08:39:33Z
 image:       "/img/tea-6680090_960_720.jpg"
-tags:        [""]
 categories:  ["Humour"]
 ---
 <br>Why try?
