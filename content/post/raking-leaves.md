@@ -17,5 +17,5 @@ categories:  ["nature"]
 <br>Slow……slow……
 <br>The next season,
 <br>Settling in your heart.
-<br>Satisfactin in effort,
+<br>Satisfaction in effort,
 <br>That rooks applaud.

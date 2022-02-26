@@ -12,11 +12,11 @@ categories:  ["Humour"]
 <br>A social slur
 <br>Whining for wine
 <br>A vodkaless void
-<br>All things ifzzy
+<br>All things fizzy
 <br>Make you dizzy
 <br>Don’t really care for alcopops
 <br>Always taste of sugary slops
-<br>Avoid ruthless piratical rum<
+<br>Avoid ruthless piratical rum
 <br>No making merry with sherry
 <br>Life feels queer
 <br>Without beer
@@ -26,7 +26,7 @@ categories:  ["Humour"]
 <br>Faced with herbal tea
 <br>Fortified by water
 <br>Filling us with cheer
-<br>The challneg of staying clear
+<br>The challenge of staying clear
 <br>Of any percentage proof
 <br>Might make us appear
 <br>Sensible and aloof

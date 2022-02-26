@@ -11,7 +11,7 @@ categories:  ["misc"]
 <br>Grief cast out to sea
 <br>Rolled, roiled, tumbled
 <br>Returned to shore.
-<br>It’s eneergy and strength
+<br>It’s energy and strength
 <br>Releases sea glass
 <br>A smooth survivor
 <br>Every piece unique.

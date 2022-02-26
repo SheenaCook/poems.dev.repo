@@ -3,7 +3,7 @@ title:       "Owl on a Post"
 subtitle:    ""
 description: " "
 date:        2021-01-18T17:26:09Z
-image:       "/img/owl_1.jpg"
+image:       "/img/owl_3.jpg"
 tags:        ["birds"]
 categories:  ["Nature"]
 ---

@@ -3,7 +3,7 @@ title:       "Goths in pedalloes"
 subtitle:    ""
 description: " "
 date:        2021-09-15T10:17:13Z
-image:       "/img/pedalloes_1.jpg"
+image:       "/img/pedal-boats-in-Regents-Park.jpg"
 categories:  ["Humour"]
 ---
 <br>Here goes
@@ -22,7 +22,7 @@ categories:  ["Humour"]
 <br>Reserve shaken
 <br>
 <br>Languildy pedalling
-<br>Heavey soled treddling
+<br>Heavy soled treddling
 <br>Relax a while
 <br>Share a smile
 <br>Tending to be introspective

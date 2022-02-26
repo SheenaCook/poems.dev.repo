@@ -10,7 +10,7 @@ categories:  ["Humour"]
 <br>Looking like a Hooray
 <br>I borrowed it to keep warm
 <br>Now my face is red
-<br>it’s hotter than my bed
+<br>It’s hotter than my bed
 <br>The zip is dodgy
 <br>My frame looks podgy
 <br>Trapped in a gilet

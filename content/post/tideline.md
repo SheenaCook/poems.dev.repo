@@ -10,13 +10,13 @@ categories:  ["Recent"]
 I sent my friend a linocut card 
 <br>
 *[Bird Watching by Diana Ashdown.](https://www.greenpebble.co.uk/collections/diana-ashdown/birds)*
-<br>And this poem I wrote
+<br>And this is the poem I wrote
 <br>
 <br>
 <br>On a mudflat somewhere
 <br>Will be an oystercatcher
 <br>Blissfully unaware
 <br>Of an onlooker’s envious stare
-<br>A bird who life is clearly black and white
+<br>A bird whose life is clearly black and white
 <br>Then whether the moon full and bright
 <br>Tides will keep on turning

@@ -15,5 +15,5 @@ categories:  ["Nature"]
 <br>Frosted foreground
 <br>In the lee of hedges
 <br>Purity nodding
-<br>Come Spring
-<br>Come Spring.
+<br>Come Spring!
+<br>Come Spring!
