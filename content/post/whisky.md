@@ -1,7 +1,7 @@
 ---
 title:       "Don’t be a bam just take a dram"
 subtitle:    ""
-description: "a small drink of whisky"
+description: "A small drink of whisky"
 date:        2022-02-25T08:43:39Z
 image:       "/img/whisky-644372_1280.jpg"
 tags:        [""]
