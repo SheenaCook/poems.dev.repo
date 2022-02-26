@@ -7,9 +7,7 @@ image:       "/img/whisky-644372_1280.jpg"
 categories:  ["Recent"]
 ---
 <br>**bam** - someone who is foolish, disruptive, annoying, obnoxious
-<br>
-<br>**slainte mhath** - (pronounced swan-g-var) cheers
-<br>
+<br>**slàinte mhath** - (pronounced Slanj-a-va) cheers
 <br>**dram** - a small drink of whisky
 <br>
 <br>
