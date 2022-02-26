@@ -4,7 +4,7 @@ subtitle:    ""
 description: "An impromptu spring garden visit"
 date:        2022-02-06T07:42:15Z
 image:       "/img/crocus-6955548_960_720.jpg"
-tags:        ["gardens, spring "]
+tags:        ["gardens", "spring "]
 categories:  ["nature"]
 ---
 <br>Following the paths meander
@@ -42,4 +42,3 @@ categories:  ["nature"]
 <br>Along with their loyal gardeners
 <br>There is honour in what is shared
 <br>Attuned to horticultural heraldry
-<br><br>
