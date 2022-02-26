@@ -3,7 +3,7 @@ title:       "Winter Blackbirds"
 subtitle:    ""
 description: "Amused on a frosty day by the blackbirds play"
 date:        2022-02-13
-image:       "https://cdn.pixabay.com/photo/2021/12/28/14/30/bird-6899457_1280.jpg"
+image:       "/img/blackbird-6899457_1280.jpg"
 tags:        ["birds", "blackbirds", "winter"]
 categories:  ["nature"]
 ---
