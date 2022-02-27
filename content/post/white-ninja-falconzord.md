@@ -1,7 +1,7 @@
 ---
 title:       "White Ninja Falconzord"
 subtitle:    "Power Up!"
-description: "Our first Christmas in London 1996, our oldest son was only 5. The power of advertising got to him but sadly he became a cynic at a very young age.Inronically Jingle All the Way became his fsavourite Christmas film."
+description: "Our first Christmas in London 1996, our oldest son was only 5. The power of advertising got to him but sadly he became a cynic at a very young age. Inronically Jingle All the Way became his fsavourite Christmas film."
 date:        2020-12-12T18:05:45Z
 image:       "img/falconzord_1.webp"
 categories:  ["misc"]
