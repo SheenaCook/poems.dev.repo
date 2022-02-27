@@ -12,8 +12,8 @@ unsafe = true
 [params]
     header_image = "/img/forest-3119826_1280.jpg"
     title = "Musings, mud and minor melancholy"
-    SEOTitle = "Sheena Cook Poems"
-    keyword = "Poems, Poetry, Blog, Gardening, Nature, Musings"
+    SEOTitle = "Poetry"
+    keyword = "Poems, Poetry, Blog, Gardening, Nature, Musings, Sheena Cook"
 
 
 # Sidebar settings
