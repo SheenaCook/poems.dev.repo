@@ -46,6 +46,6 @@ unsafe = true
 
     [params.social]
 #    rss            = true
-    email          = "me@sheenacook.com"
+    email          = "feedback@sheenapoetry.com"
 
     [params.bookmarks]
