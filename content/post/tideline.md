@@ -5,7 +5,7 @@ description: " "
 date:        2021-01-01T17:50:26Z
 image:       "/img/oystercatcher_1.jpg"
 tags:        ["birds", "sea"]
-categories:  ["Recent"]
+categories:  ["Musings"]
 ---
 I sent my friend a linocut card 
 <br>
