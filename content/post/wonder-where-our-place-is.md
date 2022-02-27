@@ -4,7 +4,7 @@ subtitle:    ""
 description: " "
 date:        2002-05-12T08:51:13Z
 image:       "/img/woman-6961929_960_720.jpg"
-categories:  ["misc"]
+categories:  ["Musings"]
 ---
 <br>As I read and toss in my bed
 <br>Grey skies fill me with a longing for sun
