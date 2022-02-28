@@ -5,7 +5,7 @@ description: "A culinary take on going beyond the pale and interesting "
 date:        2022-02-28T10:14:40Z
 image:       "/img/cauliflower-3170062_960_720.jpg"
 tags:        ["vegetables"]
-categories:  ["Humour"]
+categories:  ["Recent"]
 ---
 <br>Every hour on the hour
 <br>I'm gonna kiss a cauliflower
