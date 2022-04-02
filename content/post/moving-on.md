@@ -5,7 +5,7 @@ description: "For when things are hard to leave behind but moving on is wise"
 date:        1989-08-19T09:18:00Z
 image:       "/img/desperate-2293377_960_720.jpg"
 tags:        ["loss","relationships"]
-categories:  ["Recent"]
+categories:  ["Misc"]
 ---
 <br>His belongings sat in the hall
 <br>Close to the door

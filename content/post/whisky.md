@@ -4,7 +4,7 @@ subtitle:    ""
 description: "A small drink of whisky"
 date:        2022-02-25T08:43:39Z
 image:       "/img/whisky-644372_1280.jpg"
-categories:  ["Recent"]
+categories:  ["Misc"]
 ---
 <br>**bam** - someone who is foolish, disruptive, annoying, obnoxious
 <br>**slàinte mhath** - (pronounced Slanj-a-va) cheers
