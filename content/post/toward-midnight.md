@@ -23,7 +23,7 @@ categories:  ["Recent"]
 <br>The Big Top's only stirring
 <br>Owl hoots approval
 <br>As the circus prepares to sleep
-<br>Strongman snoring;rumbling sleep
+<br>Strongman snoring; rumbling sleep
 <br>
 <br>Bareback ballerina's horse
 <br>Crops meadow grass
@@ -41,7 +41,7 @@ categories:  ["Recent"]
 <br>The river's their stage for grace
 <br>Scars tingle a reminder
 <br>She accepts her beauty within
-<br>Doubt ebbs away,contentment within
+<br>Doubt ebbs away, contentment within
 <br>
 <br>Willows trail the surface
 <br>From the shadows she emerges
