@@ -1,7 +1,7 @@
 ---
 title:       "An Hour of Dance"
 subtitle:    ""
-description: "I wrote this after a dance performance, at Lilian Bayliss Studio, entitled Getting Dressed"
+description: "I wrote this after a dance performance, at Lilian Bayliss Studio, entitled Getting Dressed."
 date:        2018-04-11T18:57:34Z
 image:       "/img/gaming-computer-6903836_960_720.jpg"
 categories:  ["Musings"]
