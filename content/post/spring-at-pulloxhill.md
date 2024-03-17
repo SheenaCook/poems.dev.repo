@@ -18,7 +18,7 @@ categories:  ["Recent"]
 <br>Each bold statement blooming stalk.
 <br>
 <br>We know the hurt war has cast.
-<br>Make it stop! Please let if be the past.
+<br>Make it stop! Please let it be the past.
 <br>The news breaks our hearts.
 <br>Still Spring uplifts and starts.
 <br>
