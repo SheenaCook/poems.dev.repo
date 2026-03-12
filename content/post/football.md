@@ -1,5 +1,5 @@
 ---
-title:       "Footbally"
+title:       "Football"
 subtitle:    ""
 description: "An away day to Halifax Town F.C. home game with friends."
 date:        2022-05-15T15:35:02+01:00
